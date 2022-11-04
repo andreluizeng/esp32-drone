@@ -1,0 +1,49 @@
+AutoECO Report
+FILE-A: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-1.MAX
+FILE-B: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR_V5.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding component SW2
+Adding component J20
+Net N90060 renamed to N90062
+Deleting U3.1 from net +5V
+Adding U3.20 to net +5V
+Deleting U3.20 from net 3V3
+Deleting J19.3 from net 3V3
+Deleting R1.1 from net 3V3
+Adding U3.1 to net 3V3
+Adding J20.4 to net 3V3
+Adding R5.1 to net 3V3
+Adding U3.10 to net 3V3
+Deleting U3.5 from net CH1
+Adding U3.16 to net CH1
+Deleting U3.16 from net CH1_3V3
+Adding U3.5 to net CH1_3V3
+Deleting U3.4 from net CH2
+Adding U3.17 to net CH2
+Deleting U3.17 from net CH2_3V3
+Adding U3.4 to net CH2_3V3
+Deleting U3.3 from net CH3
+Adding U3.18 to net CH3
+Deleting U3.18 from net CH3_3V3
+Adding U3.3 to net CH3_3V3
+Deleting U3.2 from net CH4
+Adding U3.19 to net CH4
+Deleting U3.19 from net CH4_3V3
+Adding U3.2 to net CH4_3V3
+Deleting J19.5 from net GND
+Adding J20.6 to net GND
+Adding SW2.1 to net GND
+Deleting U4.24 from net N90062
+Adding U4.26 to net N90062
+Adding SW2.2 to net N107410
+Deleting J19.2 from net RXD
+Adding J20.3 to net RXD
+Deleting J19.1 from net TXD
+Adding J20.2 to net TXD
+Deleting component R1
+Deleting component J19
+Deleting net N107930
+Deleting net N106349
+Deleting net N62277
+*EOF*
+No errors found

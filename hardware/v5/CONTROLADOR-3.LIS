@@ -1,0 +1,128 @@
+Post Processor Report
+OrCAD FILE: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.MAX
+Thu Oct 06 01:55:37 2022
+
+*********************************************************
+
+Output file: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.TOP
+
+Aperture totals for F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.TOP:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,       8 Flashes
+D11:  0.0580 ROUND  --       0 Draws,      30 Flashes
+D12:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0620 ROUND  --       0 Draws,      26 Flashes
+D14:  0.0620 SQUARE --       0 Draws,      10 Flashes
+D15:  0.0780 ROUND  --       0 Draws,       6 Flashes
+D16:  0.0780 SQUARE --       0 Draws,       2 Flashes
+D17:  0.0640 x 0.0320 RECTANGLE -----      28 Flashes
+D18:  0.0320 x 0.0640 RECTANGLE -----      10 Flashes
+D19:  0.0010 ROUND  --       4 Draws,       0 Flashes
+D20:  0.0197 ROUND  --     105 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,      25 Flashes
+D22:  0.0118 ROUND  --      43 Draws,       0 Flashes
+D23:  0.0157 ROUND  --       3 Draws,       0 Flashes
+D24:  0.0130 ROUND  --       3 Draws,       0 Flashes
+D25:  0.0140 ROUND  --       0 Draws,      27 Flashes
+D26:  0.0140 ROUND  --       0 Draws,      76 Flashes
+---------------------------------------------------------
+ 17 D-Codes      -----     158 Draws,     250 Flashes
+
+*********************************************************
+
+Output file: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.BOT
+
+Aperture totals for F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.BOT:
+---------------------------------------------------------
+D19:  0.0010 ROUND  --       4 Draws,       0 Flashes
+D20:  0.0197 ROUND  --     196 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,      25 Flashes
+D25:  0.0140 ROUND  --       0 Draws,      27 Flashes
+D26:  0.0140 ROUND  --       0 Draws,      76 Flashes
+D27:  0.0600 SQUARE --       0 Draws,       6 Flashes
+D28:  0.0580 ROUND  --       0 Draws,      30 Flashes
+D29:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D30:  0.0620 ROUND  --       0 Draws,      26 Flashes
+D31:  0.0620 SQUARE --       0 Draws,      10 Flashes
+D32:  0.0780 ROUND  --       0 Draws,       8 Flashes
+D33:  0.1420 x 0.0880 RECTANGLE -----       1 Flashes
+D34:  0.0480 x 0.0880 RECTANGLE -----       3 Flashes
+D35:  0.0138 ROUND  --      96 Draws,       0 Flashes
+---------------------------------------------------------
+ 14 D-Codes      -----     296 Draws,     214 Flashes
+
+*********************************************************
+
+Output file: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.GND
+
+Aperture totals for F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.GND:
+---------------------------------------------------------
+D25:  0.0140 ROUND  --       0 Draws,      27 Flashes
+D26:  0.0140 ROUND  --       0 Draws,      76 Flashes
+D32:  0.0780 ROUND  --       0 Draws,      30 Flashes
+D36:  0.0780 SQUARE --       0 Draws,       2 Flashes
+D37:  0.0820 ROUND  --       0 Draws,      26 Flashes
+D38:  0.0820 SQUARE --       0 Draws,      10 Flashes
+D39:  0.0840 ROUND  --       0 Draws,       8 Flashes
+D40:  0.0750 ROUND  --       0 Draws,      25 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----       0 Draws,     204 Flashes
+
+*********************************************************
+
+Output file: F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.PWR
+
+Aperture totals for F:\ENGENHARIA\PROJETOS\ELETRONICA\DRONE\V5\CONTROLADOR-3.PWR:
+---------------------------------------------------------
+D25:  0.0140 ROUND  --       0 Draws,      27 Flashes
+D26:  0.0140 ROUND  --       0 Draws,      76 Flashes
+D32:  0.0780 ROUND  --       0 Draws,      30 Flashes
+D36:  0.0780 SQUARE --       0 Draws,       2 Flashes
+D37:  0.0820 ROUND  --       0 Draws,      26 Flashes
+D38:  0.0820 SQUARE --       0 Draws,      10 Flashes
+D39:  0.0840 ROUND  --       0 Draws,       8 Flashes
+D40:  0.0750 ROUND  --       0 Draws,      25 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----       0 Draws,     204 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,       8 Flashes
+D11:  0.0580 ROUND  --       0 Draws,      30 Flashes
+D12:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0620 ROUND  --       0 Draws,      26 Flashes
+D14:  0.0620 SQUARE --       0 Draws,      10 Flashes
+D15:  0.0780 ROUND  --       0 Draws,       6 Flashes
+D16:  0.0780 SQUARE --       0 Draws,       2 Flashes
+D17:  0.0640 x 0.0320 RECTANGLE -----      28 Flashes
+D18:  0.0320 x 0.0640 RECTANGLE -----      10 Flashes
+D19:  0.0010 ROUND  --       8 Draws,       0 Flashes
+D20:  0.0197 ROUND  --     301 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,      50 Flashes
+D22:  0.0118 ROUND  --      43 Draws,       0 Flashes
+D23:  0.0157 ROUND  --       3 Draws,       0 Flashes
+D24:  0.0130 ROUND  --       3 Draws,       0 Flashes
+D25:  0.0140 ROUND  --       0 Draws,     108 Flashes
+D26:  0.0140 ROUND  --       0 Draws,     304 Flashes
+D27:  0.0600 SQUARE --       0 Draws,       6 Flashes
+D28:  0.0580 ROUND  --       0 Draws,      30 Flashes
+D29:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D30:  0.0620 ROUND  --       0 Draws,      26 Flashes
+D31:  0.0620 SQUARE --       0 Draws,      10 Flashes
+D32:  0.0780 ROUND  --       0 Draws,      68 Flashes
+D33:  0.1420 x 0.0880 RECTANGLE -----       1 Flashes
+D34:  0.0480 x 0.0880 RECTANGLE -----       3 Flashes
+D35:  0.0138 ROUND  --      96 Draws,       0 Flashes
+D36:  0.0780 SQUARE --       0 Draws,       4 Flashes
+D37:  0.0820 ROUND  --       0 Draws,      52 Flashes
+D38:  0.0820 SQUARE --       0 Draws,      20 Flashes
+D39:  0.0840 ROUND  --       0 Draws,      16 Flashes
+D40:  0.0750 ROUND  --       0 Draws,      50 Flashes
+---------------------------------------------------------
+ 31 D-Codes      -----     454 Draws,     872 Flashes
+
+
+No warnings or errors.
